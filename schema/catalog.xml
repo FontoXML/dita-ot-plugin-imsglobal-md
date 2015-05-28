@@ -1,3 +1,10 @@
 <?xml version="1.0" ?>
 <catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+
+	<!-- IMS Global Metadata 1.2.4 release -->
+	<system systemId="imsmd_v1p2p4.xsd" uri="imsmd_v1p2p4.xsd"/>
+	<system systemId="urn:imsglobal:md:xsd:imsmd_v1p2p4.xsd" uri="imsmd_v1p2p4.xsd"/>
+	<uri name="imsmd_v1p2p4.xsd" uri="imsmd_v1p2p4.xsd"/>
+	<uri name="urn:imsglobal:md:xsd:imsmd_v1p2p4.xsd" uri="imsmd_v1p2p4.xsd"/>
+
 </catalog>
